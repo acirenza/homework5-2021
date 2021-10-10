@@ -120,7 +120,7 @@ header{
   grid-column: 1 / -1;
   grid-row: 1 / span 1;
   background-image: url(../images/header.jpg);
-  width: 100vw;
+  background-repeat: no-repeat;
 
 
   /* YOUR CODE HERE; */
